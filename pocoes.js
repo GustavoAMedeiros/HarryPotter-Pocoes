@@ -10,7 +10,7 @@ class pocoes {
 
 //classe para criação dos personagens estudantes
 class student {
-    constructor(nome, idade, casa, dinheiro, podeComprarTodas, podeComprarCura){
+    constructor(nome, idade, casa, dinheiro){
         this.name = nome
         this.age = idade // 11 até 17
         this.house = casa //Grifinória, Corvinal, Lufa-lufa, Sonserina
